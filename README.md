@@ -1,6 +1,6 @@
 # Starchart
 
-Starchart makes it easy for the Seneca developer community to create and manager their own custom subdomains and SSL certificates, without cost or having to provide personal information.
+SSStarchart makes it easy for the Seneca developer community to create and manager their own custom subdomains and SSL certificates, without cost or having to provide personal information.
 
 ## Introduction
 
